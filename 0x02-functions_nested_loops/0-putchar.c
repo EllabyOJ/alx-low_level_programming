@@ -1,4 +1,3 @@
-File Edit Options Buffers Tools C Help
 #include "main.h"
 
 
@@ -21,3 +20,5 @@ _putchar('r');
 _putchar('\n');
 
 return (0);
+
+}
